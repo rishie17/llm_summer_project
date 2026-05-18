@@ -1,0 +1,32 @@
+{
+  "token_to_id": {
+    "<|unk|>": 0,
+    "<|endoftext|>": 1,
+    ",": 2,
+    "--": 3,
+    ".": 4,
+    "?": 5,
+    "Hello": 6,
+    "Is": 7,
+    "It": 8,
+    "Tokenization": 9,
+    "a": 10,
+    "and": 11,
+    "first": 12,
+    "in": 13,
+    "is": 14,
+    "processing": 15,
+    "punctuation": 16,
+    "special": 17,
+    "splits": 18,
+    "step": 19,
+    "symbols": 20,
+    "test": 21,
+    "text": 22,
+    "the": 23,
+    "this": 24,
+    "words": 25,
+    "world": 26,
+    " ": 27
+  }
+}

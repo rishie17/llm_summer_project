@@ -1,0 +1,3 @@
+Hello, world. Is this-- a test?
+Tokenization is the first step in text processing.
+It splits words, punctuation, and special symbols.
